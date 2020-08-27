@@ -1,0 +1,6 @@
+[submodule "accessible-modals"]
+	path = accessible-modals
+	url = https://github.com/accessibility-tooling/accessible-modals
+[submodule "accessible-states"]
+	path = accessible-states
+	url = https://github.com/accessibility-tooling/accessible-states
